@@ -1,0 +1,16 @@
+.AddQuiz__Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.AddQuiz__Content {
+    padding: 20px;
+    border: 1px solid lightgrey;
+    width: 300px;
+}
+
+.AddQuiz__Content > div {
+    margin-bottom: 15px;
+}
